@@ -13,6 +13,9 @@
 		A24A12022A66671E007FDFE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A24A12002A66671E007FDFE4 /* Main.storyboard */; };
 		A24A12042A666721007FDFE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A24A12032A666721007FDFE4 /* Assets.xcassets */; };
 		A24A12072A666721007FDFE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A24A12052A666721007FDFE4 /* LaunchScreen.storyboard */; };
+		A24A120F2A6697D2007FDFE4 /* HanyiSentyFingerPainting.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A24A120E2A6697D2007FDFE4 /* HanyiSentyFingerPainting.ttf */; };
+		A24A12112A6698F3007FDFE4 /* HanyiSentyTea.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A24A12102A6698F3007FDFE4 /* HanyiSentyTea.ttf */; };
+		A24A12132A669996007FDFE4 /* ChenYuluoyan-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A24A12122A669996007FDFE4 /* ChenYuluoyan-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		A24A12032A666721007FDFE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A24A12062A666721007FDFE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A24A12082A666721007FDFE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A24A120E2A6697D2007FDFE4 /* HanyiSentyFingerPainting.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanyiSentyFingerPainting.ttf; sourceTree = "<group>"; };
+		A24A12102A6698F3007FDFE4 /* HanyiSentyTea.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanyiSentyTea.ttf; sourceTree = "<group>"; };
+		A24A12122A669996007FDFE4 /* ChenYuluoyan-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ChenYuluoyan-Thin.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				A24A12032A666721007FDFE4 /* Assets.xcassets */,
 				A24A12052A666721007FDFE4 /* LaunchScreen.storyboard */,
 				A24A12082A666721007FDFE4 /* Info.plist */,
+				A24A120E2A6697D2007FDFE4 /* HanyiSentyFingerPainting.ttf */,
+				A24A12102A6698F3007FDFE4 /* HanyiSentyTea.ttf */,
+				A24A12122A669996007FDFE4 /* ChenYuluoyan-Thin.ttf */,
 			);
 			path = "圖表練習";
 			sourceTree = "<group>";
@@ -126,8 +135,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				A24A12072A666721007FDFE4 /* LaunchScreen.storyboard in Resources */,
+				A24A120F2A6697D2007FDFE4 /* HanyiSentyFingerPainting.ttf in Resources */,
 				A24A12042A666721007FDFE4 /* Assets.xcassets in Resources */,
 				A24A12022A66671E007FDFE4 /* Main.storyboard in Resources */,
+				A24A12112A6698F3007FDFE4 /* HanyiSentyTea.ttf in Resources */,
+				A24A12132A669996007FDFE4 /* ChenYuluoyan-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
